@@ -1,0 +1,8 @@
+﻿La consigna consiste en crear el archivo CSS necesario y aplicarle las reglas de estilos que correspondan para que el archivo index.html ya incluido se vea como se muestra en las imágenes y video de referencia. 
+
+Aplicar los conceptos de fondos, gradientes, pseudoclases, pseudoelementos, position, bordes, border-radius, etc en CSS y de ser necesario, incluir contenedores neutros en el HTML para lograr los efectos deseados.
+
+Para esto, tener en cuenta:
+- Utilizar las tipografías citadas en el archivo tipografias.txt.
+- No incluir en ningún elemento del HTML atributos id o de clases.
+- No aplicar JavaScript.

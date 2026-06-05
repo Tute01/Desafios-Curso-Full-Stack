@@ -1,0 +1,46 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #edece9;
+    color: #775548;
+}
+
+img{
+    width: 100%;
+}
+nav{
+    color: #ef6d24;
+    font-size: 25px;
+}
+
+a{
+  color: #ef6d24;
+  font-weight: bold;
+}
+
+.titulos{
+    background-color: #775548;
+    color: #e1d4ca;
+}
+
+.negrita{
+    font-weight: bold;
+}
+.laNacion{
+    color: #45aac4;
+}
+.pagina12{
+   color: #ef4b55; 
+}
+
+.alternativa{
+    color: #d8b03c;
+}
+
+footer {
+    
+    height: 100px;
+    background-color: black;
+    color: yellow;
+    align-content: center;
+    text-align: center;
+}

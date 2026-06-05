@@ -1,0 +1,5 @@
+Las tipografías utilizadas son:
+
+- 'Lucida Sans Unicode', 'Lucida Grande', sans-serif
+- Impact, Charcoal, sans-serif
+- Arial, Gadget, sans-serif

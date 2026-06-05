@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+#logo{
+    width: 500px;
+}
+
+h1, h2{
+    color:rgb(192, 84, 151) ;
+    font-weight: lighter;
+  
+}
+h1{
+    padding: 20px;
+    letter-spacing: 20px;
+}
+h2{
+    text-align: left;
+    letter-spacing: 10px;
+   
+}
+
+
+p{
+    color: rgb(50, 98, 166);
+    text-align:left;
+}
+
+.derecha{
+    float: right;
+    width: 500px;
+    padding-left: 10px;
+}
+
+.izquierda{
+    float: left;
+    width: 500px;
+    padding-right: 10px;
+}
+
+#foto-mickey-minnie{
+    display: block;
+    width: 100%;
+    
+}

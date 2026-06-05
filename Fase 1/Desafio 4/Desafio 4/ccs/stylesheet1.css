@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #e11364;
+    
+}
+
+header{
+
+    border-left: 10px solid white;
+    border-right:  10px solid white;
+    background-color: #bc105c;
+    
+    text-align: center;
+    margin:  auto ;
+    width: 90%;
+    color: white;
+    font-size: 40px;
+
+}
+h1{
+    padding: 20px
+}
+
+#contenedor{
+    
+    background-color: #bc105c;
+    border-radius: 5px;
+    padding: 20px;
+    width: 90%;
+    margin: auto;
+    
+
+}
+
+#titulo-contenedor{
+    margin-top:30px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.contenido{
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    
+}
+.titulo-contenido{
+    margin-top: 30px;
+    text-align: right;
+    color: #bc105c;
+
+}
+.titulo-contenido h2{
+    border-bottom: 2px dotted #bc105c;
+    
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+.boton{
+    text-align: center;
+}
+
+input[type="button"]{
+    background-color:#2c8f20 ;
+    color:  white;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input[type="button"]:hover{
+     background-color: #e96093;
+}
+
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: #e96093;
+    width: 90%;
+    border-radius:  5px;
+    padding: 20px;
+    margin: 30px auto;
+    font-weight: bold;
+}
