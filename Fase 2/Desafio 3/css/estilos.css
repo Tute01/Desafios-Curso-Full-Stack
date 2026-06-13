@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: antiquewhite;
+}
+
+form{
+    display: flex;
+    flex-direction:  column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    background-color:whitesmoke; 
+}
+
+div{
+    margin-top: 1rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    background-color:whitesmoke; 
+}
+
+form p {
+    display:  none;
+}
